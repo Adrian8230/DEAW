@@ -3,7 +3,7 @@
 Soy **Adrian Leal Castaño**
 
 
-| **Nombre** | **GITHUB** |
-| Sergio López | ['Perfil Sergio Lopez'](https://github.com/Sergio1802) |
-| Javier Ferrer | ['Perfil Javier Ferrer'](https://github.com/JavierFerrer03) |
-| Nombre 3 | Contenido |
+| NOMBRE              | GITHUB                                                        |
+| Sergio Lopez       | [Enlace a GitHub de Adrián](https://github.com/Sergio1802)     |
+| Javier Ferrer       | [Enlace a GitHub de Javier](https://github.com/JavierFerrer03)|
+| Alejandro Castellanos | [Enlace a GitHub de Alejandro](https://github.com/Caste11)  |
